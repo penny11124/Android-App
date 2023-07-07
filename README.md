@@ -13,3 +13,4 @@
 ### 其他指令
 * ```git branch -a``` 看現在有哪些branch
 * ```git status``` 看現在有trace哪些file
+* ```git branch -d branch_name``` 刪除branch
