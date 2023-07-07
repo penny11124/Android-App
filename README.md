@@ -1,19 +1,14 @@
 # Android-App
 ## git 小抄
-### step.1
-1. 根據master複製一個new branch
-```git branch <new_branch> <master>```
-2. 切換到新創的那個new branch
-```git checkout <branch_name>```
-### step.2
-1. 寫新code
-2. push到新的branch
-```git add .```
+1. 一開始先記得checkout自己所在branch，新創branch:
+```git branch <new_branch_name>```
+2. 切換到新創的那個branch
+```git checkout <new_branch_name>```
+3. 寫新code
+4. push到新的branch
+```git add <project_folder_name>```
 ```git commit -m 'description'```
-```git push -u <new_branch>```
-### step.3
-1. 合併到master
-在github上面按pull request->ok
+```git push -u <new_branch_name>```
 
 ### 其他指令
 * ```git branch -a``` 看現在有哪些branch
