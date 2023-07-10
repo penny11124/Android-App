@@ -1,10 +1,10 @@
 # Android-App
 ## git 小抄
-1. 一開始先記得checkout自己所在branch，新創branch:
+1. 一開始先記得checkout自己所在branch，一定要跳回main再新創branch:
 ```git branch <new_branch_name>```
 2. 切換到新創的那個branch
 ```git checkout <new_branch_name>```
-3. 寫新code
+3. 才create new project寫new code
 4. push到新的branch
 ```git add <project_folder_name>```
 ```git commit -m 'description'```
