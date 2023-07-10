@@ -4,7 +4,7 @@
 ```git branch <new_branch_name>```
 2. 切換到新創的那個branch
 ```git checkout <new_branch_name>```
-3. 才create new資料夾寫new code
+3. 才create new project寫new code
 4. push到新的branch
 ```git add <project_folder_name>```
 ```git commit -m 'description'```
