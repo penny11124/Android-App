@@ -1,4 +1,7 @@
 # Android-App
+Android App Development Course with Kotlin & Java | Android Code
+## Hack MD
+[學習筆記](https://hackmd.io/@peijen/H1Zv-Gju3)
 ## git 小抄
 1. 一開始先記得checkout自己所在branch，一定要跳回main再新創branch:
 ```git branch <new_branch_name>```
