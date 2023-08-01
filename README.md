@@ -1,5 +1,6 @@
-# Android-App
-Android App Development Course with Kotlin & Java | Android Code
+# Android App Development Course with Kotlin & Java | Android
+這裡是課程中的範例Code
+每個branch裡有同章節中的內容(詳情可看commit)
 ## Hack MD
 [學習筆記](https://hackmd.io/@peijen/H1Zv-Gju3)
 ## git 小抄
